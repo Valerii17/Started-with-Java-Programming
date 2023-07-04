@@ -53,6 +53,13 @@ public class HomeWork {
         }
     }
 
+    /**
+     * @apiNote
+     * @param laptops
+     * @param filters
+     * @return
+     */
+
     public static Set<Laptop> filterLaptops(Set<Laptop> laptops, Map<String, Object> filters) {
         Set<Laptop> filteredLaptops = new HashSet<>();
 
