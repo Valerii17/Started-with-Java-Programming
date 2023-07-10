@@ -1,12 +1,10 @@
-package org.example.oop3.classWork;
-
-import org.example.oop3.homeWork.*;
+package org.example.oop3.homeWork;
 
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Scanner;
 
-public class Ex3 {
+public class Hw3 {
 
     public static void main(String[] args) {
         /**
